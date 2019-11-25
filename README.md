@@ -3,11 +3,11 @@ Serverless multicast application for notification written in C
 
 It was built for the following requirements ->
   
- Many courses have surprise tests. Students registered want to be notified when the test is about to
+• Many courses have surprise tests. Students registered want to be notified when the test is about to
 be conducted. A student who attends the class may send a message to all who want to be notified.
- There are multiple students who request notification from a class goer and there are multiple
+• There are multiple students who request notification from a class goer and there are multiple
 courses.
- No central server should be used in implementation.
+•  No central server should be used in implementation.
 
 The desgin was implemented as ->
 
